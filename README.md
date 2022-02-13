@@ -23,6 +23,9 @@
   <img width="30px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />  &ensp;  
   <img width="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />  &ensp;
   <img width="30px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />  &ensp;
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />  &ensp;
+  
+  
   
   
   </p>
