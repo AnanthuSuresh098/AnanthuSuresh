@@ -1,6 +1,9 @@
 # ***Hey there , I'm Ananthu suresh 👽***
 
-### 📌Full Stack Developer,Technology Enthusiast,Traveller.
-  ### 📍 Calicut,kerala,India
+#### <i>📌Full Stack Developer,Technology Enthusiast,Traveller.</i>
+  #### <i>📍 Calicut,kerala,India</i>
+  
+<!--   <link><u>Hello world</u></link> -->
+
 
 ![gify](gify.gif)
