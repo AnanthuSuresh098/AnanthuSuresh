@@ -7,14 +7,18 @@
 <h4> <i>📩Drop an email to ananthusuresh098@gmail.com </i> </h4>
   </p>
 
-<br/>
+</br>
+</br>
+</br>
+</br>
+
  <h2><i>Git Stats</i></h2>
   <p align="start">
   <img alt="Ananthu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnanthuSuresh098&show_icons=true&theme=panda" height="180px">
   
 </p>
 
-<p>
+<p align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnanthuSuresh098&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt" height="180px"/>
   </p>
 <!-- 
