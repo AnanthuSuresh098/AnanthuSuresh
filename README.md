@@ -7,10 +7,10 @@
 <h4> <i>📩Drop an email to ananthusuresh098@gmail.com </i> </h4>
   </p>
 
-</br>
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h2><i>Languages & Tools</i></h2>
 <p>
@@ -24,14 +24,10 @@
   <img width="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />  &ensp;
   <img width="30px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />  &ensp;
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />  &ensp;
-  
-  
-  
-  
   </p>
 
-</br>
-</br>
+<br/>
+<br/>
 
  <h2><i>Git Stats</i></h2>
   <p align="start">
@@ -43,18 +39,22 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnanthuSuresh098&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt" height="180px"/>
   </p>
   
-<!--   <div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
+  <br/>
+  <br/>
+  <br/>
+  
+  <div align="center" >
+    <a href="https://twitter.com/Ananthusuresh55">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter" width="30px"> &ensp;
     </a>
-     <a href="">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+     <a href="https://www.linkedin.com/in/ananthu-suresh-2a166921b/">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin" width="30px"> &ensp;
     </a>
-  <a href="">
-     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  <a href="mailto: ananthusuresh098@gmail.com">
+     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px"/> &ensp;
     </a>
 </div>
- -->
+
 
   
   
