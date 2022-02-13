@@ -1,6 +1,6 @@
 # ***Hey there , I'm Ananthu suresh 👽***
 <p>
-  <img src="/gify.gif" height="300px" align="right"/>
+  <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" height="350px" align="right"/>
   <h4> <i>📌Full Stack Developer,Technology Enthusiast,Traveller.</i>  </h4>  
   <h4> <i>📍 Calicut,kerala,India</i> </h4>
 <h4> <i>🚩Specialization in MERN Stack</i> </h4>
