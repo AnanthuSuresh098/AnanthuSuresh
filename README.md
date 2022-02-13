@@ -4,7 +4,7 @@
   <h4> <i>📌Full Stack Developer,Technology Enthusiast,Traveller.</i>  </h4>  
   <h4> <i>📍 Calicut,kerala,India</i> </h4>
 <h4> <i>🚩Specialization in MERN Stack</i> </h4>
-<h4> <i>📩Drop an email to ananthusuresh098@gmail.com </i> </h4>
+<h4> <i>📩Drop an email to <a href="mailto: ananthusuresh098@gmail.com">Ananthusuresh098@gmail.com</a></i> </h4>
   </p>
 
 <br/>
@@ -54,12 +54,6 @@
      <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30px"/> &ensp;
     </a>
 </div>
-
-
-  
-  
-<!-- 
-![gify](gify.gif) -->
 
 
 
