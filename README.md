@@ -12,6 +12,24 @@
 </br>
 </br>
 
+<h2><i>Languages & Tools</i></h2>
+<p>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &ensp;   
+   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  &ensp;   
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  &ensp;   
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  &ensp;   
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  &ensp;   
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  &ensp; 
+  <img width="30px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />  &ensp;  
+  <img width="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />  &ensp;
+  <img width="30px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />  &ensp;
+  
+  
+  </p>
+
+</br>
+</br>
+
  <h2><i>Git Stats</i></h2>
   <p align="start">
   <img alt="Ananthu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnanthuSuresh098&show_icons=true&theme=panda" height="180px">
@@ -21,6 +39,22 @@
 <p align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnanthuSuresh098&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt" height="180px"/>
   </p>
+  
+<!--   <div align="center" style="background:#414a50; padding: 25px 0;">
+    <a href="">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
+    </a>
+     <a href="">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+    </a>
+  <a href="">
+     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+    </a>
+</div>
+ -->
+
+  
+  
 <!-- 
 ![gify](gify.gif) -->
 
