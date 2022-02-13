@@ -4,15 +4,11 @@
   <h4> <i>📌Full Stack Developer,Technology Enthusiast,Traveller.</i>  </h4>  
   <h4> <i>📍 Calicut,kerala,India</i> </h4>
 <h4> <i>🚩Specialization in MERN Stack</i> </h4>
-<h4> <i>📩Drop an email to ananthusuresh098@gmail.com</i> </h4>
-
-
-
+<h4> <i>📩Drop an email to ananthusuresh098@gmail.com </i> </h4>
   </p>
 
-
-
-  
+<br/>
+ <h2><i>Git Stats</i></h2>
   <p align="start">
   <img alt="Ananthu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnanthuSuresh098&show_icons=true&theme=panda" height="180px">
   
