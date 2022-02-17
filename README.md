@@ -26,7 +26,6 @@ work environment</i> </h4>
   </p>
 
 <br/>
-<br/>
 
  <h2><i>Git Stats</i></h2>
   <p align="start">
