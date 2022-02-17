@@ -4,6 +4,8 @@
   <h4> <i>📌Full Stack Developer,Technology Enthusiast,Traveller.</i>  </h4>  
   <h4> <i>📍 Calicut,kerala,India</i> </h4>
 <h4> <i>🚩Specialization in MERN Stack</i> </h4>
+<h4> <i>🌱Looking forward to a challenging
+work environment</i> </h4>
 <h4> <i>📩Drop an email to <a href="mailto: ananthusuresh098@gmail.com">Ananthusuresh098@gmail.com</a></i> </h4>
 <h4> <i>👁‍🗨Have a look at my <a href="https://ananthu-portfolio.netlify.app/" target="_blank">portfolio</a> & <a href="https://drive.google.com/file/d/1gOHhGqvgIUP5rI4CTJmDTOqgwpt0dh4u/view?usp=sharing">Resume</a></i> </h4>
   </p>
