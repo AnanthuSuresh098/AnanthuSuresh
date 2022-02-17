@@ -11,7 +11,6 @@ work environment</i> </h4>
 <h4> <i> 👁‍🗨Have a look at my <a href="https://ananthu-portfolio.netlify.app/" target="_blank">portfolio</a> & <a href="https://drive.google.com/file/d/1gOHhGqvgIUP5rI4CTJmDTOqgwpt0dh4u/view?usp=sharing">Resume</a></i> </h4>
   </p>
 <br/>
-<br/>
 <h2><i>Languages & Tools</i></h2>
 <p>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &ensp;   
