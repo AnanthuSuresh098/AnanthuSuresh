@@ -1,7 +1,7 @@
 # ***Hey there , I'm Ananthu suresh 👽***
  <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" height="350px" align="right"/>
 <p>
-  <h4> <i>📌Full Stack Developer,Technology Enthusiast,Traveller.</i>  </h4>  
+  <h4> <i>📌Full Stack Developer,Technology Enthusiast,Philanthropist,Traveller.</i>  </h4>  
   <h4> <i>📍 Calicut,kerala,India</i> </h4>
 <h4> <i>🚩Specialization in MERN Stack</i> </h4>
 <h4> <i>🌱Looking forward to a challenging
