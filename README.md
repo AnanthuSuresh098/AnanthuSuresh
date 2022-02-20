@@ -1,4 +1,4 @@
-# ***Hey there , I'm Ananthu suresh 👽***
+# ***Hey there , I'm Ananthu Suresh 👽***
  <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" height="350px" align="right"/>
 <p>
   <h4> <i>📌Full Stack Developer,Technology Enthusiast,Philanthropist,Traveller.</i>  </h4>  
