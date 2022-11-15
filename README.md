@@ -23,7 +23,7 @@ work environment</i> </h4>
   <img width="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />  &ensp;
   <img width="30px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />  &ensp;
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />  &ensp;
- <img width="30px" src="https://pngimg.com/uploads/wordpress/wordpress_PNG74.png" />
+ <img width="30px" src="https://assets.stickpng.com/images/5847f58bcef1014c0b5e4895.png" />
   </p>
 
 <br/>
