@@ -1,5 +1,5 @@
 # ***Hey there , I'm Ananthu Suresh 👽***
- <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" height="350px" align="right"/>
+ <img src="./giphy.gif" height="350px" align="right"/>
 <p>
   <h4> <i>📌 Full Stack Developer,Technology Enthusiast,Philanthropist,Traveller.</i>  </h4>  
   <h4> <i>📍  Calicut,kerala,India</i> </h4>
